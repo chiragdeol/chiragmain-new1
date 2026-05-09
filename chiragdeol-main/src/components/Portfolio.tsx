@@ -35,7 +35,7 @@ export default function Portfolio() {
     desc: 'Luxury real estate platform showcasing premium properties in Dubai including Atlantis The Royal Residences, Palm Jumeirah, and Downtown Dubai.',
     highlight: 'Premium Dubai Properties',
     url: 'https://www.axrealtors.com/',
-    image: "https://img.rocket.new/generatedImages/rocket_gen_img_1fb091bc2-1772780363193.png",
+    image: "https://img.rocket.new/generatedImages/rocket_gen_img_1cf4d2702-1764930716676.png",
     alt: 'Luxury real estate property in Dubai with modern architecture and pool',
     size: 'large'
   },
@@ -47,7 +47,7 @@ export default function Portfolio() {
     desc: 'Boutique real estate brokerage platform in Dubai featuring off-plan projects, property sales, leasing, and comprehensive market research services.',
     highlight: '29+ Properties Managed',
     url: 'https://aitsquare.com/',
-    image: "https://img.rocket.new/generatedImages/rocket_gen_img_13454628e-1778314027899.png",
+    image: "https://img.rocket.new/generatedImages/rocket_gen_img_15da1dd8d-1773176909130.png",
     alt: 'Modern Dubai real estate office building with glass facade',
     size: 'small'
   },
@@ -59,7 +59,7 @@ export default function Portfolio() {
     desc: 'Canadian manufacturer of custom solid wood doors with extensive product catalog, gallery showcase, and e-commerce capabilities for luxury door solutions.',
     highlight: '2.5M+ YouTube Views',
     url: 'https://amberwooddoors.com/',
-    image: "https://img.rocket.new/generatedImages/rocket_gen_img_1c909bd46-1778314030209.png",
+    image: "https://img.rocket.new/generatedImages/rocket_gen_img_1cdd9dc97-1773905879761.png",
     alt: 'Elegant custom solid wood door with intricate craftsmanship details',
     size: 'small'
   },
@@ -71,7 +71,7 @@ export default function Portfolio() {
     desc: 'Comprehensive travel agency platform offering tour packages, visa services, and holiday planning with seamless booking experience.',
     highlight: 'Travel & Tourism',
     url: 'https://bigvaluetravels.com/',
-    image: "https://img.rocket.new/generatedImages/rocket_gen_img_15b4db19e-1764862863876.png",
+    image: "https://images.unsplash.com/photo-1610024212866-0d37d696032a",
     alt: 'Scenic travel destination with mountains and clear blue sky',
     size: 'large'
   },
@@ -83,7 +83,7 @@ export default function Portfolio() {
     desc: 'Travel and vacation booking platform for UAE destinations featuring tour packages, activities, and seamless booking experience.',
     highlight: 'Tourism & Travel',
     url: 'https://wecation.ae/',
-    image: "https://img.rocket.new/generatedImages/rocket_gen_img_178ad25e7-1767941585065.png",
+    image: "https://images.unsplash.com/photo-1683625895327-52482daed52d",
     alt: 'Dubai skyline at sunset with iconic Burj Khalifa tower',
     size: 'small'
   },
@@ -95,7 +95,7 @@ export default function Portfolio() {
     desc: 'Oil and petroleum products e-commerce platform with product catalog, ordering system, and business solutions for industrial clients.',
     highlight: 'Industrial E-commerce',
     url: 'https://vardhanoil.com/',
-    image: "https://img.rocket.new/generatedImages/rocket_gen_img_14424e6c5-1772722667653.png",
+    image: "https://img.rocket.new/generatedImages/rocket_gen_img_12ef72da1-1766508932092.png",
     alt: 'Industrial oil refinery facility with storage tanks and pipelines',
     size: 'small'
   }];

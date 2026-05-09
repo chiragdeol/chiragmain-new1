@@ -27,7 +27,6 @@ export const metadata: Metadata = {
       height: 630,
       alt: 'Chirag Deol - Digital Excellence'
     }]
-
   },
   twitter: {
     card: 'summary_large_image',
@@ -38,7 +37,6 @@ export const metadata: Metadata = {
   icons: {
     icon: [
     { url: '/favicon.ico', type: 'image/x-icon' }]
-
   },
   robots: {
     index: true,
@@ -55,7 +53,6 @@ export const metadata: Metadata = {
 
 export default function RootLayout({
   children
-
 }: Readonly<{children: React.ReactNode;}>) {
   return (
     <html lang="en">
@@ -65,11 +62,10 @@ export default function RootLayout({
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap"
           rel="stylesheet" />
-
         <script type="module" async src="https://static.rocket.new/rocket-web.js?_cfg=https%3A%2F%2Fchiragmain2693back.builtwithrocket.new&_be=https%3A%2F%2Fappanalytics.rocket.new&_v=0.1.18" />
-        <script type="module" defer src="https://static.rocket.new/rocket-shot.js?v=0.0.2" /></head>
-      <body>{children}
-</body>
-    </html>);
-
+        <script type="module" defer src="https://static.rocket.new/rocket-shot.js?v=0.0.2" />
+      </head>
+      <body>{children}</body>
+    </html>
+  );
 }
